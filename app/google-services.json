@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "224517522998",
+    "firebase_url": "https://app62boxerdataapp.firebaseio.com",
+    "project_id": "app62boxerdataapp",
+    "storage_bucket": "app62boxerdataapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:224517522998:android:0eb8eb79702e3f27",
+        "android_client_info": {
+          "package_name": "com.example.nathapong.app62_boxerdataapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "224517522998-hlnulpdkh1gvqhdbtr0i6ujtr6fu6hid.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.nathapong.app62_boxerdataapp",
+            "certificate_hash": "7abfad946c760354480c8ca80c946d9471f7a5cc"
+          }
+        },
+        {
+          "client_id": "224517522998-94o77din8gj56ev23t8tckif9vqgf5pl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDgvkLkR3rxEVe-SpBhITibvvkxqA8rcRQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "224517522998-94o77din8gj56ev23t8tckif9vqgf5pl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
